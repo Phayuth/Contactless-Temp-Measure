@@ -9,7 +9,7 @@ Arduino Nano | LCD I2C | GY-906 | Battery Pack | 9v Battery | Accessories |
 
 ## Connection
 
-<img src="https://github.com/Phayuth/IOT-Contactless-Temp-Measure/blob/main/Arduino-Temperature-Sensor.png" width="60%">
+<img src="https://github.com/Phayuth/IOT-Contactless-Temp-Measure/blob/main/connection_v1.png" width="60%">
 
 ## Code
 
