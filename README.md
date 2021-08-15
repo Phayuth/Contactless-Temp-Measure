@@ -1,5 +1,5 @@
 # Contactless Temperature Measure
-Building a contactless temperrature measurement device with arduino
+![](https://github.com/Phayuth/IOT-Contactless-Temp-Measure/blob/main/cover.png?raw=true)
 
 ## List of Items
 
